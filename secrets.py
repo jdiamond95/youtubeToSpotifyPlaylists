@@ -1,0 +1,3 @@
+youtubeAPIKey = ""
+spotifyUserId = ""
+spotifyToken = ""
